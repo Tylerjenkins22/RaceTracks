@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RaceTracks/static/css/main.60f94a13.css",
-    "main.js": "/RaceTracks/static/js/main.b80e966d.js",
+    "main.js": "/RaceTracks/static/js/main.53861a1f.js",
     "static/js/787.03ecff99.chunk.js": "/RaceTracks/static/js/787.03ecff99.chunk.js",
     "static/media/logo5.PNG": "/RaceTracks/static/media/logo5.389d56e943194657ec8c.PNG",
     "static/media/stravaLogo.png": "/RaceTracks/static/media/stravaLogo.6cc168cca3772901cf8c.png",
@@ -11,11 +11,11 @@
     "static/media/slick.woff": "/RaceTracks/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RaceTracks/index.html",
     "main.60f94a13.css.map": "/RaceTracks/static/css/main.60f94a13.css.map",
-    "main.b80e966d.js.map": "/RaceTracks/static/js/main.b80e966d.js.map",
+    "main.53861a1f.js.map": "/RaceTracks/static/js/main.53861a1f.js.map",
     "787.03ecff99.chunk.js.map": "/RaceTracks/static/js/787.03ecff99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60f94a13.css",
-    "static/js/main.b80e966d.js"
+    "static/js/main.53861a1f.js"
   ]
 }
