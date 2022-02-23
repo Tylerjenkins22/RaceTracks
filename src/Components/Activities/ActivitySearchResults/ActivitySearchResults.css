@@ -1,0 +1,30 @@
+.card-color {
+  background-color: rgb(245, 240, 240);
+}
+
+.search-results-analyse-button {
+  background-color: rgb(129, 66, 186);
+  position: "relative";
+  bottom: "0";
+  height: 40px;
+  color: white;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+}
+
+.analyse-date-range-button {
+  background-color: rgb(206, 45, 80);
+  height: 40px;
+  color: white;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+}
+
+.select-activity-type-bar {
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(23, 86, 126);
+  border-style: solid;
+  border-width: 3px;
+}

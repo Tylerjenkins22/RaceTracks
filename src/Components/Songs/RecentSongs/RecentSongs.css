@@ -1,0 +1,10 @@
+.color-back {
+  /* background-color: rgb(23, 86, 126); */
+  background-color: white;
+  border-style: solid;
+  border-color: rgb(23, 86, 126);
+}
+
+.white-text {
+  color: white;
+}
